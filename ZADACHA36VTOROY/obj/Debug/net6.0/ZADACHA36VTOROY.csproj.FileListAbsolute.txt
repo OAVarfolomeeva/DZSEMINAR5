@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\bin\Debug\net6.0\ZADACHA36VTOROY.exe
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\bin\Debug\net6.0\ZADACHA36VTOROY.deps.json
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\bin\Debug\net6.0\ZADACHA36VTOROY.runtimeconfig.json
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\bin\Debug\net6.0\ZADACHA36VTOROY.dll
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\bin\Debug\net6.0\ZADACHA36VTOROY.pdb
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\obj\Debug\net6.0\ZADACHA36VTOROY.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\obj\Debug\net6.0\ZADACHA36VTOROY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\obj\Debug\net6.0\ZADACHA36VTOROY.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\obj\Debug\net6.0\ZADACHA36VTOROY.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\obj\Debug\net6.0\ZADACHA36VTOROY.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\obj\Debug\net6.0\ZADACHA36VTOROY.dll
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\obj\Debug\net6.0\refint\ZADACHA36VTOROY.dll
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\obj\Debug\net6.0\ZADACHA36VTOROY.pdb
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\obj\Debug\net6.0\ZADACHA36VTOROY.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\Учеба\ДЗ СЕМИНАР5\ZADACHA36VTOROY\obj\Debug\net6.0\ref\ZADACHA36VTOROY.dll
